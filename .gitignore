@@ -1,0 +1,15 @@
+.DS_Store
+.claude/
+audit-*/
+brand/
+marketing-audit-*/
+qa/
+design-qa.md
+redesign.html
+assets/build-architecture.png
+assets/operate-architecture.png
+assets/operate-systems.png
+assets/sector-energy.png
+assets/sector-finance.png
+assets/sector-media.png
+assets/sector-travel.png
